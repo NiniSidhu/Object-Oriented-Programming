@@ -1,0 +1,22 @@
+{
+  "name": "object-oriented-programming",
+  "version": "1.0.0",
+  "description": "RPG game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiniSidhu/Object-Oriented-Programming.git"
+  },
+  "author": "Nayandeep Sidhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiniSidhu/Object-Oriented-Programming/issues"
+  },
+  "homepage": "https://github.com/NiniSidhu/Object-Oriented-Programming#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
